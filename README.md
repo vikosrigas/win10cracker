@@ -1,2 +1,2 @@
 # win10cracker
-# rigt clik . open as admin . done.
+open as admin . done.
